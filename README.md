@@ -2,6 +2,8 @@
 
 Genomes assembled in this project can be found in the assembledGenomes folder. <br>
 <br>
+Please note the stock labeled D. kikkawai (14028-0561.00) may actually be D. triauraria or D. auraria.<br>
+<br>
 Stocks used and stock numbers:<br>
 D. ananassae	14024-0371.13<br>
 D. biarmipes	14023-0361.02<br>
