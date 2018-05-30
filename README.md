@@ -10,7 +10,7 @@ D. biarmipes	14023-0361.02<br>
 D. bipectinata	14024-0381.07<br>
 D. erecta	14021-0224.01<br>
 D. eugracilis	14026-0451.02<br>
-D. kikkawai	14028-0561.00<br>
+D. triauraria	14028-0691.9<br>
 D. mauritiana	14021-0241.01<br>
 D. mojavensis	15081-1352.22<br>
 D. persimilis	14011-0111.01<br>
@@ -20,3 +20,5 @@ D. simulans	14021-0251.006<br>
 D. virilis	15010-1051.87<br>
 D. willistoni	14030-0811.00<br>
 D. yakuba	14021-0261.01<br>
+<br>
+Please note that a preprint reported we sequence the D. kikkawai stock (14028-0561.00) which is in fact D. triauraria 
